@@ -1,4 +1,4 @@
-#A Laravel Package that makes Automatic Invitation to Slack Channels seamless
+# A Laravel Package that makes Automatic Invitation to Slack Channels seamless
 
 
 ##  How it Works
